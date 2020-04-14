@@ -6,8 +6,8 @@ NanoGUI
     :target: http://nanogui.readthedocs.org/en/latest/?badge=latest
     :alt: Docs
 
-.. |travis| image:: https://travis-ci.org/dalerank/nanogui.svg?branch=master
-   :target: https://travis-ci.org/dalerank/nanogui
+.. |travis| image:: https://travis-ci.com/samphunter/nanogui.svg?branch=master
+   :target: https://travis-ci.org/samphunter/nanogui
    :alt: Travis Build Status
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/m8h3uyvdb4ej2i02/branch/master?svg=true
