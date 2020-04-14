@@ -10,8 +10,8 @@ NanoGUI
    :target: https://travis-ci.com/samphunter/nanogui
    :alt: Travis Build Status
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/m8h3uyvdb4ej2i02/branch/master?svg=true
-   :target: https://ci.appveyor.com/project/dalerank/nanogui/branch/master
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/ufw59fdt39kkk279?svg=true
+   :target: https://ci.appveyor.com/project/xhunterx/nanogui/branch/master
    :alt: Appveyor Build Status
    
 .. |discord| image:: https://img.shields.io/discord/645931749360009216.svg?color=7389D8&label=%20&logo=discord&logoColor=ffffff
