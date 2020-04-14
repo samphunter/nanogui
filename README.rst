@@ -7,7 +7,7 @@ NanoGUI
     :alt: Docs
 
 .. |travis| image:: https://travis-ci.com/samphunter/nanogui.svg?branch=master
-   :target: https://travis-ci.org/samphunter/nanogui
+   :target: https://travis-ci.com/samphunter/nanogui
    :alt: Travis Build Status
 
 .. |appveyor| image:: https://ci.appveyor.com/api/projects/status/m8h3uyvdb4ej2i02/branch/master?svg=true
